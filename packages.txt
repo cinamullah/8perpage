@@ -1,0 +1,1 @@
+freeglut3-dev libgles2-mesa-dev libgl1-mesa-glx
